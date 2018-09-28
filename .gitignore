@@ -1,0 +1,4 @@
+.*
+rsb/
+tutorial_tasks/
+!.gitignore
