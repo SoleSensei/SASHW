@@ -2,8 +2,8 @@
 __Дата сдачи:__  02.10.18
 
 __Авторы:__ 
-- SoleSensei (1-4)
-- ??? (5)
+- SoleSensei
+- blazzen
 
 ### SAS Studio 
 ```
