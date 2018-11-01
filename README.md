@@ -3,6 +3,9 @@
 - blazzen
 - FeaxLovesGit
 
+## Распределение задач
+__[SAS Board](https://github.com/SoleSensei/SASHW/projects/1)__
+
 Удобно проинициализировать репу в `/myfolders/` - где у вас настроена студия
 
 `.gitignore` открыт на дополнение
@@ -18,6 +21,3 @@ git pull
 jupyter notebook /path_to_myfolders/SASHW/Task_no
 git push
 ```
-
-### Распределение задач
-__[SAS Board](https://github.com/SoleSensei/SASHW/projects/1)__
