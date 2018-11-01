@@ -12,9 +12,10 @@
 
 ### Команды
 ```bash
+git clone https://github.com/SoleSensei/SASHW.git
 pip install jupyter
 git pull
-jupyter notebook /path_to_myfolders/Task_no
+jupyter notebook /path_to_myfolders/SASHW/Task_no
 git push
 ```
 
