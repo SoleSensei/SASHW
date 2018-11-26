@@ -1,5 +1,5 @@
 *****************************************;
-** SAS Scoring Code for PROC Logistic;
+** SAS Scoring Code for PROC ;
 *****************************************;
 
 length I_Ins $ 12;
