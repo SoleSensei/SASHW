@@ -1,4 +1,5 @@
 # SAS Home Workers
+Курс по SAS. Кафедра ИИТ. ВМК, МГУ, 7 сем 
 - SoleSensei
 - blazzen
 - FeaxLovesGit
